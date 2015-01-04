@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="Plant Attack" isLooping="0" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="32" anchorPtY="59" frameDuration="0.1" rleft="6" rtop="745" rright="68" rbottom="809" event="None" />
+		<AnimFrames anchorPtX="36" anchorPtY="64" frameDuration="0.1" rleft="56" rtop="736" rright="121" rbottom="805" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="60" frameDuration="0.1" rleft="125" rtop="730" rright="190" rbottom="795" event="None" />
+		<AnimFrames anchorPtX="36" anchorPtY="64" frameDuration="0.1" rleft="56" rtop="736" rright="121" rbottom="805" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="59" frameDuration="0.1" rleft="6" rtop="745" rright="68" rbottom="809" event="None" />
+	</Animation>
+	<Animation name="Robot Attack" isLooping="0" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="27" anchorPtY="62" frameDuration="0.1" rleft="956" rtop="60" rright="1012" rbottom="125" event="None" />
+		<AnimFrames anchorPtX="29" anchorPtY="61" frameDuration="0.1" rleft="901" rtop="62" rright="959" rbottom="128" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="59" frameDuration="0.1" rleft="828" rtop="66" rright="892" rbottom="130" event="None" />
+		<AnimFrames anchorPtX="29" anchorPtY="61" frameDuration="0.1" rleft="901" rtop="62" rright="953" rbottom="128" event="None" />
+		<AnimFrames anchorPtX="27" anchorPtY="62" frameDuration="0.1" rleft="956" rtop="60" rright="1012" rbottom="125" event="None" />
+	</Animation>
+</Sheet>

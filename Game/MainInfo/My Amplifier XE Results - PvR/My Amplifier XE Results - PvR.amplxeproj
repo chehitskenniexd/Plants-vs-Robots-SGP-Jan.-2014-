@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <connectionOption>localhost</connectionOption>
+ <rdmgr>
+  <timestamp type="u64_t">1399472085</timestamp>
+  <hostname>Kenneth_FullSail-PC</hostname>
+  <os>windows</os>
+  <product>Intel® VTune™ Amplifier XE 2013 Update 16</product>
+  <buildNumber type="s32_t">342405</buildNumber>
+  <logicalCPUCount type="s32_t">8</logicalCPUCount>
+  <CPUFrequency type="s64_t">2400000000</CPUFrequency>
+ </rdmgr>
+ <All_Configurations-All_Platforms>
+  <analysis_type_settings>
+   <selected_analysis_type_path>F:\Intel\VTune Amplifier XE 2013\config\analysis_type\advanced_hotspots.cfg</selected_analysis_type_path>
+  </analysis_type_settings>
+ </All_Configurations-All_Platforms>
+</root>

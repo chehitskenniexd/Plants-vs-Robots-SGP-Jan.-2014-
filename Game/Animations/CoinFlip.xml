@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="Coin Flip" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="52" anchorPtY="102" frameDuration="0.05" rleft="52" rtop="868" rright="157" rbottom="972" event="None" />
+		<AnimFrames anchorPtX="52" anchorPtY="102" frameDuration="0.05" rleft="186" rtop="868" rright="293" rbottom="972" event="None" />
+		<AnimFrames anchorPtX="52" anchorPtY="102" frameDuration="0.05" rleft="326" rtop="866" rright="431" rbottom="972" event="None" />
+		<AnimFrames anchorPtX="52" anchorPtY="102" frameDuration="0.05" rleft="186" rtop="868" rright="293" rbottom="972" event="None" />
+		<AnimFrames anchorPtX="52" anchorPtY="102" frameDuration="0.05" rleft="461" rtop="865" rright="565" rbottom="969" event="None" />
+	</Animation>
+</Sheet>

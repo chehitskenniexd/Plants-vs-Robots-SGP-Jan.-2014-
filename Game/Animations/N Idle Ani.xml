@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="N Base Idle" isLooping="0" animImageID="hut.png">
+		<AnimFrames anchorPtX="32" anchorPtY="62" frameDuration="0.1" rleft="0" rtop="0" rright="64" rbottom="64" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="62" frameDuration="0.1" rleft="0" rtop="0" rright="64" rbottom="64" event="None" />
+	</Animation>
+</Sheet>

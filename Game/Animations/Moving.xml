@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="P Infantry Move" isLooping="0" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="30" anchorPtY="61" frameDuration="0.5" rleft="177" rtop="204" rright="241" rbottom="268" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="61" frameDuration="0.5" rleft="251" rtop="201" rright="315" rbottom="265" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="61" frameDuration="0.5" rleft="177" rtop="204" rright="241" rbottom="268" event="UNIT_MOVE" />
+	</Animation>
+	<Animation name="P Scout Move" isLooping="0" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="27" anchorPtY="60" frameDuration="0.5" rleft="274" rtop="307" rright="338" rbottom="371" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="58" frameDuration="0.5" rleft="343" rtop="314" rright="407" rbottom="378" event="None" />
+		<AnimFrames anchorPtX="27" anchorPtY="60" frameDuration="0.5" rleft="274" rtop="307" rright="338" rbottom="371" event="UNIT_MOVE" />
+	</Animation>
+	<Animation name="P Tank Move" isLooping="0" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="32" anchorPtY="60" frameDuration="0.5" rleft="191" rtop="582" rright="255" rbottom="646" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="60" frameDuration="0.5" rleft="9" rtop="581" rright="73" rbottom="645" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="60" frameDuration="0.5" rleft="191" rtop="582" rright="255" rbottom="646" event="UNIT_MOVE" />
+	</Animation>
+	<Animation name="R Infantry Move" isLooping="0" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="33" anchorPtY="59" frameDuration="0.5" rleft="890" rtop="128" rright="954" rbottom="192" event="None" />
+		<AnimFrames anchorPtX="33" anchorPtY="59" frameDuration="0.5" rleft="787" rtop="185" rright="851" rbottom="249" event="None" />
+		<AnimFrames anchorPtX="33" anchorPtY="59" frameDuration="0.5" rleft="890" rtop="128" rright="954" rbottom="192" event="UNIT_MOVE" />
+	</Animation>
+	<Animation name="R Scout Move" isLooping="0" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="29" anchorPtY="61" frameDuration="0.5" rleft="892" rtop="262" rright="956" rbottom="326" event="None" />
+		<AnimFrames anchorPtX="29" anchorPtY="61" frameDuration="0.5" rleft="960" rtop="257" rright="1024" rbottom="321" event="None" />
+		<AnimFrames anchorPtX="29" anchorPtY="61" frameDuration="0.5" rleft="892" rtop="262" rright="956" rbottom="326" event="UNIT_MOVE" />
+	</Animation>
+	<Animation name="R Tank Move" isLooping="0" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="30" anchorPtY="62" frameDuration="0" rleft="634" rtop="465" rright="698" rbottom="529" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="61" frameDuration="0.5" rleft="718" rtop="461" rright="782" rbottom="525" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="61" frameDuration="0.5" rleft="634" rtop="465" rright="698" rbottom="529" event="UNIT_MOVE" />
+	</Animation>
+</Sheet>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="Explosion" isLooping="0" animImageID="explosion.png">
+		<AnimFrames anchorPtX="39" anchorPtY="40" frameDuration="0.1" rleft="310" rtop="410" rright="388" rbottom="493" event="None" />
+		<AnimFrames anchorPtX="38" anchorPtY="42" frameDuration="0.1" rleft="712" rtop="408" rright="789" rbottom="490" event="None" />
+		<AnimFrames anchorPtX="33" anchorPtY="40" frameDuration="0.1" rleft="314" rtop="511" rright="384" rbottom="586" event="None" />
+		<AnimFrames anchorPtX="33" anchorPtY="36" frameDuration="0.1" rleft="715" rtop="516" rright="777" rbottom="581" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="29" frameDuration="0.1" rleft="318" rtop="621" rright="379" rbottom="678" event="None" />
+		<AnimFrames anchorPtX="29" anchorPtY="27" frameDuration="0.1" rleft="719" rtop="626" rright="776" rbottom="678" event="ENTITY_DESTROY" />
+	</Animation>
+	<Animation name="Explosion AP" isLooping="0" animImageID="explosion.png">
+		<AnimFrames anchorPtX="39" anchorPtY="40" frameDuration="0.1" rleft="310" rtop="410" rright="388" rbottom="493" event="None" />
+		<AnimFrames anchorPtX="38" anchorPtY="42" frameDuration="0.1" rleft="712" rtop="408" rright="789" rbottom="490" event="None" />
+		<AnimFrames anchorPtX="33" anchorPtY="40" frameDuration="0.1" rleft="314" rtop="511" rright="384" rbottom="586" event="None" />
+		<AnimFrames anchorPtX="33" anchorPtY="36" frameDuration="0.1" rleft="715" rtop="516" rright="777" rbottom="581" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="29" frameDuration="0.1" rleft="318" rtop="621" rright="379" rbottom="678" event="None" />
+		<AnimFrames anchorPtX="29" anchorPtY="27" frameDuration="0.1" rleft="719" rtop="626" rright="776" rbottom="678" event="END_APDEC" />
+	</Animation>
+</Sheet>

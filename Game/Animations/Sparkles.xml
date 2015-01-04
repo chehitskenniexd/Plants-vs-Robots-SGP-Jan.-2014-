@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="P Sparkle" isLooping="0" animImageID="sparkles.png">
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="33" rtop="33" rright="97" rbottom="97" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="97" rtop="33" rright="161" rbottom="97" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="161" rtop="33" rright="225" rbottom="97" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="97" rtop="33" rright="161" rbottom="97" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="33" rtop="33" rright="97" rbottom="97" event="None" />
+	</Animation>
+	<Animation name="R Sparkle" isLooping="0" animImageID="sparkles.png">
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="33" rtop="91" rright="97" rbottom="161" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="97" rtop="97" rright="161" rbottom="161" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="161" rtop="97" rright="225" rbottom="161" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="97" rtop="97" rright="161" rbottom="161" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.2" rleft="33" rtop="97" rright="97" rbottom="161" event="None" />
+	</Animation>
+</Sheet>

@@ -1,0 +1,8 @@
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\bin\Release\WorldEditor.exe.config
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\bin\Release\WorldEditor.exe
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\bin\Release\WorldEditor.pdb
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Release\WorldEditor.Form1.resources
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Release\WorldEditor.Properties.Resources.resources
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Release\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Release\WorldEditor.exe
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Release\WorldEditor.pdb

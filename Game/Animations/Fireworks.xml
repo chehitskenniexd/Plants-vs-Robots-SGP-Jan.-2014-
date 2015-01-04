@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="Fireworks" isLooping="1" animImageID="fireworks.png">
+		<AnimFrames anchorPtX="2" anchorPtY="2" frameDuration="0" rleft="200" rtop="64" rright="205" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="17" anchorPtY="17" frameDuration="0" rleft="207" rtop="35" rright="242" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="25" anchorPtY="25" frameDuration="0.1" rleft="245" rtop="19" rright="296" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="27" anchorPtY="27" frameDuration="0.1" rleft="297" rtop="12" rright="354" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="31" anchorPtY="32" frameDuration="0.1" rleft="356" rtop="2" rright="423" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="32" frameDuration="0.1" rleft="426" rtop="2" rright="492" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="31" anchorPtY="31" frameDuration="0.1" rleft="496" rtop="6" rright="560" rbottom="69" event="None" />
+	</Animation>
+	<Animation name="AFireworks" isLooping="1" animImageID="fireworks.png">
+		<AnimFrames anchorPtX="-2" anchorPtY="2" frameDuration="0" rleft="200" rtop="64" rright="205" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="-17" anchorPtY="-17" frameDuration="0" rleft="207" rtop="35" rright="242" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="-25" anchorPtY="-25" frameDuration="0.1" rleft="245" rtop="19" rright="296" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="-27" anchorPtY="-27" frameDuration="0.1" rleft="297" rtop="12" rright="354" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="-31" anchorPtY="-32" frameDuration="0.1" rleft="356" rtop="2" rright="423" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="-32" anchorPtY="-32" frameDuration="0.1" rleft="426" rtop="2" rright="492" rbottom="69" event="None" />
+		<AnimFrames anchorPtX="-31" anchorPtY="-31" frameDuration="0.1" rleft="496" rtop="6" rright="560" rbottom="69" event="None" />
+	</Animation>
+</Sheet>

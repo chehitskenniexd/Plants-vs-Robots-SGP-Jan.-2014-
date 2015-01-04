@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet version="0">
+  <ImageName Name="PvRtemp.bmp" />
+  <BattleMap MapWidth="30" MapHeight="10" TileWidth="64" TileHeight="64" WindDirection="NONE">
+    <Tiles>
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="6" MapPosY="0" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="7" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="8" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="12" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="14" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="15" MapPosY="0" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="16" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="17" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="23" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="24" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="25" MapPosY="0" TilesetX="128" TilesetY="64" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="26" MapPosY="0" TilesetX="128" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="27" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="28" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="29" MapPosY="0" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="6" MapPosY="1" TilesetX="64" TilesetY="64" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="7" MapPosY="1" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="8" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="12" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="14" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="15" MapPosY="1" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="16" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="17" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="23" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="24" MapPosY="1" TilesetX="128" TilesetY="64" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="25" MapPosY="1" TilesetX="128" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="26" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="27" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="28" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="29" MapPosY="1" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="6" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="7" MapPosY="2" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="8" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="12" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="14" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="15" MapPosY="2" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="16" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="17" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="18" MapPosY="2" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="23" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="24" MapPosY="2" TilesetX="128" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="25" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="26" MapPosY="2" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="27" MapPosY="2" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="28" MapPosY="2" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="29" MapPosY="2" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="6" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="7" MapPosY="3" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="8" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="12" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="14" MapPosY="3" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="15" MapPosY="3" TilesetX="64" TilesetY="128" WaterFlow="WEST" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="16" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="17" MapPosY="3" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="23" MapPosY="3" TilesetX="128" TilesetY="64" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="24" MapPosY="3" TilesetX="128" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="25" MapPosY="3" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="26" MapPosY="3" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="27" MapPosY="3" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="28" MapPosY="3" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="29" MapPosY="3" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="6" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="7" MapPosY="4" TilesetX="64" TilesetY="64" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="8" MapPosY="4" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="12" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="14" MapPosY="4" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="15" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="16" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="17" MapPosY="4" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="23" MapPosY="4" TilesetX="128" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="24" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="25" MapPosY="4" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="26" MapPosY="4" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="27" MapPosY="4" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="28" MapPosY="4" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="29" MapPosY="4" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="6" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="7" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="8" MapPosY="5" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="12" MapPosY="5" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="13" MapPosY="5" TilesetX="64" TilesetY="128" WaterFlow="WEST" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="14" MapPosY="5" TilesetX="64" TilesetY="128" WaterFlow="WEST" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="15" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="16" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="17" MapPosY="5" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="23" MapPosY="5" TilesetX="128" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="24" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="25" MapPosY="5" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="26" MapPosY="5" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="27" MapPosY="5" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="28" MapPosY="5" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="29" MapPosY="5" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="6" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="7" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="8" MapPosY="6" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="12" MapPosY="6" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="14" MapPosY="6" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="15" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="16" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="17" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="23" MapPosY="6" TilesetX="128" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="24" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="25" MapPosY="6" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="26" MapPosY="6" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="27" MapPosY="6" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="28" MapPosY="6" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="29" MapPosY="6" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="6" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="7" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="8" MapPosY="7" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="12" MapPosY="7" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="14" MapPosY="7" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="15" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="16" MapPosY="7" TilesetX="64" TilesetY="64" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="17" MapPosY="7" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="VOLCANO" TileTrigger="NONE" MapPosX="23" MapPosY="7" TilesetX="128" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="24" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="25" MapPosY="7" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="26" MapPosY="7" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="27" MapPosY="7" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="28" MapPosY="7" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="29" MapPosY="7" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="6" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="7" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="8" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="12" MapPosY="8" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="14" MapPosY="8" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="15" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="16" MapPosY="8" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="17" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="23" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="24" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="25" MapPosY="8" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="26" MapPosY="8" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="27" MapPosY="8" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="28" MapPosY="8" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="29" MapPosY="8" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="0" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="1" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="2" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="3" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="4" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="5" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="6" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="7" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="8" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="9" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="10" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="11" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="12" MapPosY="9" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="13" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="WATER" TileTrigger="NONE" MapPosX="14" MapPosY="9" TilesetX="64" TilesetY="128" WaterFlow="SOUTH" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="15" MapPosY="9" TilesetX="64" TilesetY="64" />
+      <Tile TileType="MOUNTAIN" TileTrigger="NONE" MapPosX="16" MapPosY="9" TilesetX="64" TilesetY="64" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="17" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="18" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="19" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="20" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="21" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="22" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="23" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="24" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="25" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NEUTRAL" TileTrigger="NONE" MapPosX="26" MapPosY="9" TilesetX="64" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="27" MapPosY="9" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="28" MapPosY="9" TilesetX="128" TilesetY="0" />
+      <Tile TileType="NANO" TileTrigger="NONE" MapPosX="29" MapPosY="9" TilesetX="128" TilesetY="0" />
+    </Tiles>
+    <Spawns>
+      <Spawn UnitType="TANK" Faction="PLANT" MapPosX="0" MapPosY="1" UnitsetX="64" UnitsetY="0" />
+      <Spawn UnitType="INFANTRY" Faction="PLANT" MapPosX="1" MapPosY="1" UnitsetX="128" UnitsetY="0" />
+      <Spawn UnitType="SCOUT" Faction="PLANT" MapPosX="2" MapPosY="1" UnitsetX="0" UnitsetY="0" />
+      <Spawn UnitType="TANK" Faction="PLANT" MapPosX="0" MapPosY="2" UnitsetX="64" UnitsetY="0" />
+      <Spawn UnitType="INFANTRY" Faction="PLANT" MapPosX="1" MapPosY="2" UnitsetX="128" UnitsetY="0" />
+      <Spawn UnitType="SCOUT" Faction="PLANT" MapPosX="2" MapPosY="2" UnitsetX="0" UnitsetY="0" />
+      <Spawn UnitType="BASE" Faction="ROBOT" MapPosX="27" MapPosY="2" UnitsetX="192" UnitsetY="128" />
+      <Spawn UnitType="TANK" Faction="PLANT" MapPosX="0" MapPosY="3" UnitsetX="64" UnitsetY="0" />
+      <Spawn UnitType="INFANTRY" Faction="PLANT" MapPosX="1" MapPosY="3" UnitsetX="128" UnitsetY="0" />
+      <Spawn UnitType="SCOUT" Faction="PLANT" MapPosX="2" MapPosY="3" UnitsetX="0" UnitsetY="0" />
+      <Spawn UnitType="TANK" Faction="PLANT" MapPosX="0" MapPosY="4" UnitsetX="64" UnitsetY="0" />
+      <Spawn UnitType="INFANTRY" Faction="PLANT" MapPosX="1" MapPosY="4" UnitsetX="128" UnitsetY="0" />
+      <Spawn UnitType="SCOUT" Faction="PLANT" MapPosX="2" MapPosY="4" UnitsetX="0" UnitsetY="0" />
+      <Spawn UnitType="TANK" Faction="PLANT" MapPosX="0" MapPosY="5" UnitsetX="64" UnitsetY="0" />
+      <Spawn UnitType="INFANTRY" Faction="PLANT" MapPosX="1" MapPosY="5" UnitsetX="128" UnitsetY="0" />
+      <Spawn UnitType="SCOUT" Faction="PLANT" MapPosX="2" MapPosY="5" UnitsetX="0" UnitsetY="0" />
+      <Spawn UnitType="TANK" Faction="PLANT" MapPosX="0" MapPosY="6" UnitsetX="64" UnitsetY="0" />
+      <Spawn UnitType="INFANTRY" Faction="PLANT" MapPosX="1" MapPosY="6" UnitsetX="128" UnitsetY="0" />
+      <Spawn UnitType="SCOUT" Faction="PLANT" MapPosX="2" MapPosY="6" UnitsetX="0" UnitsetY="0" />
+      <Spawn UnitType="TANK" Faction="PLANT" MapPosX="0" MapPosY="7" UnitsetX="64" UnitsetY="0" />
+      <Spawn UnitType="INFANTRY" Faction="PLANT" MapPosX="1" MapPosY="7" UnitsetX="128" UnitsetY="0" />
+      <Spawn UnitType="SCOUT" Faction="PLANT" MapPosX="2" MapPosY="7" UnitsetX="0" UnitsetY="0" />
+      <Spawn UnitType="BASE" Faction="ROBOT" MapPosX="27" MapPosY="7" UnitsetX="192" UnitsetY="128" />
+      <Spawn UnitType="TANK" Faction="PLANT" MapPosX="0" MapPosY="8" UnitsetX="64" UnitsetY="0" />
+      <Spawn UnitType="INFANTRY" Faction="PLANT" MapPosX="1" MapPosY="8" UnitsetX="128" UnitsetY="0" />
+      <Spawn UnitType="SCOUT" Faction="PLANT" MapPosX="2" MapPosY="8" UnitsetX="0" UnitsetY="0" />
+    </Spawns>
+    <TileSet Width="3" Height="3">
+      <Tile TileType="GRASS" SourceRectLeft="0" SourceRectTop="0" SourceRectWidth="64" SourceRectHeight="64" />
+      <Tile TileType="FOREST" SourceRectLeft="0" SourceRectTop="64" SourceRectWidth="64" SourceRectHeight="64" />
+      <Tile TileType="SWAMP" SourceRectLeft="0" SourceRectTop="128" SourceRectWidth="64" SourceRectHeight="64" />
+      <Tile TileType="NEUTRAL" SourceRectLeft="64" SourceRectTop="0" SourceRectWidth="64" SourceRectHeight="64" />
+      <Tile TileType="MOUNTAIN" SourceRectLeft="64" SourceRectTop="64" SourceRectWidth="64" SourceRectHeight="64" />
+      <Tile TileType="WATER" SourceRectLeft="64" SourceRectTop="128" SourceRectWidth="64" SourceRectHeight="64" />
+      <Tile TileType="NANO" SourceRectLeft="128" SourceRectTop="0" SourceRectWidth="64" SourceRectHeight="64" />
+      <Tile TileType="VOLCANO" SourceRectLeft="128" SourceRectTop="64" SourceRectWidth="64" SourceRectHeight="64" />
+      <Tile TileType="SLUDGE" SourceRectLeft="128" SourceRectTop="128" SourceRectWidth="64" SourceRectHeight="64" />
+    </TileSet>
+  </BattleMap>
+</Sheet>

@@ -1,0 +1,19 @@
+-r
+C:\Users\fullsail\Desktop\plants-vs-robots\Game\MainInfo\My Amplifier XE Results - PvR\r000ah
+--target=host
+--itt-config=frame
+--data-limit-mb=500
+--event-config=CPU_CLK_UNHALTED.THREAD:sa=2400000,CPU_CLK_UNHALTED.REF_TSC:sa=2400000,INST_RETIRED.ANY:sa=2400000
+--sample-after-multiplier=1.0
+--event-mux
+--mrte-mode=auto
+--search-dir
+sym=C:\Users\fullsail\Desktop\plants-vs-robots\Game\Release
+--search-dir
+sym=C:\Users\fullsail\Desktop\plants-vs-robots\Game
+--search-dir
+sym=srv*C:\Users\fullsail\AppData\Local\Temp\SymbolCache
+--search-dir
+sym=srv*C:\Users\fullsail\AppData\Local\Temp\SymbolCache*http:\\msdl.microsoft.com\download\symbols
+--
+C:\Users\fullsail\Desktop\plants-vs-robots\Game\Release\PvR.exe

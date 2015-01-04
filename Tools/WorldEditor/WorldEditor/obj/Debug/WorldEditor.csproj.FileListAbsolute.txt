@@ -1,0 +1,26 @@
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\WorldEditor.exe.config
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\WorldEditor.exe
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\WorldEditor\WorldEditor\WorldEditor.pdb
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\WorldEditor.exe.config
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\WorldEditor.exe
+C:\Users\Public\Documents\Full Sail\1312 SGP\Repo\Tools\WorldEditor\WorldEditor\WorldEditor.pdb
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\WorldEditor.exe.config
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\WorldEditor.exe
+C:\Users\fullsail\Dropbox\plants-vs-robots\Tools\WorldEditor\WorldEditor\WorldEditor.pdb

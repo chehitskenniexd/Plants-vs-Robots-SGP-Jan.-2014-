@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Entities">
+      <UniqueIdentifier>{5d1c42cc-02df-4953-a5ac-a67c266cb7e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc.">
+      <UniqueIdentifier>{8cf19c57-8f49-493b-b8ca-108d16f1108e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AppCore">
+      <UniqueIdentifier>{594f158e-3b8a-4d36-b58f-c168f32bdebb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{d1eb23fc-4a51-4343-9f6c-b047424504fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SGD Wrappers">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Messages">
+      <UniqueIdentifier>{23118e06-831b-4c82-a46f-e0a490a3b9ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Grid">
+      <UniqueIdentifier>{6b456aa2-012a-4d24-ae06-6767bc70ba87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{58b035d1-79f8-4409-ae19-1f8327c5927d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{6e26ad23-c319-4df7-9df5-345fdce1b9ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TinyXML">
+      <UniqueIdentifier>{57f35303-5bc4-4eb1-b693-5edd5e6d4c64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SGD Wrappers\Resources">
+      <UniqueIdentifier>{d7adc21f-932b-44e1-b070-ffc8fb1602c9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\SGD Wrappers\CSGD_Direct3D.cpp">
+      <Filter>SGD Wrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SGD Wrappers\CSGD_DirectInput.cpp">
+      <Filter>SGD Wrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SGD Wrappers\CSGD_EventSystem.cpp">
+      <Filter>SGD Wrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SGD Wrappers\CSGD_MessageSystem.cpp">
+      <Filter>SGD Wrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SGD Wrappers\CSGD_TextureManager.cpp">
+      <Filter>SGD Wrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SGD Wrappers\CSGD_XAudio2.cpp">
+      <Filter>SGD Wrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="..\SGD Wrappers\SGD_Math.cpp">
+      <Filter>SGD Wrappers</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>AppCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>AppCore</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingEntity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticEntity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityManager.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="AIPlayer.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="BasePlayer.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="HumanPlayer.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerProfile.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="AISystem.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\CreditState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\GameOverState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\GameplayState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\InstructionState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\MainMenuState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\MultiPState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\OptionState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\ProfileState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\States\SaveState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Grid\Grid.cpp">
+      <Filter>Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Grid\Tile.cpp">
+      <Filter>Grid</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Systems\AnimationSystem.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimFrames.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimTimeStamps.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Xmls\TinyXML\tinystr.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Xmls\TinyXML\tinyxml.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Xmls\TinyXML\tinyxmlerror.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Xmls\TinyXML\tinyxmlparser.cpp">
+      <Filter>TinyXML</Filter>
+    </ClCompile>
+    <ClCompile Include="BMFont.cpp">
+      <Filter>Misc.</Filter>
+    </ClCompile>
+    <ClCompile Include="AIEntity.cpp">
+      <Filter>Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="KOTHMessage.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\SGD Wrappers\CEvent.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\CSGD_Direct3D.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\CSGD_DirectInput.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\CSGD_EventSystem.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\CSGD_MessageSystem.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\CSGD_TextureManager.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\CSGD_XAudio2.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\IListener.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\IMessage.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\SGD_Math.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\SGD_String.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\SGD Wrappers\SGD_Util.h">
+      <Filter>SGD Wrappers</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="IEntity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingEntity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticEntity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityManager.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>AppCore</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerProfile.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="HumanPlayer.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="BasePlayer.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="AIPlayer.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="AISystem.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\CreditState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\GameOverState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\GameplayState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\InstructionState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\MainMenuState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\MultiPState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\OptionState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\ProfileState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\SaveState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Grid\Grid.h">
+      <Filter>Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Grid\Tile.h">
+      <Filter>Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="..\States\IGameState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Systems\AnimationSystem.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimFrames.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimTimeStamps.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Xmls\TinyXML\tinystr.h">
+      <Filter>TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Xmls\TinyXML\tinyxml.h">
+      <Filter>TinyXML</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateEntityMessage.h">
+      <Filter>Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="DestroyEntityMessage.h">
+      <Filter>Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="BMFont.h">
+      <Filter>Misc.</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="AIEntity.h">
+      <Filter>Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitConvertTile.h">
+      <Filter>Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitMoveMessage.h">
+      <Filter>Messages</Filter>
+    </ClInclude>
+    <ClInclude Include="KOTHMessage.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PvR.rc">
+      <Filter>SGD Wrappers\Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon1.ico">
+      <Filter>SGD Wrappers</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

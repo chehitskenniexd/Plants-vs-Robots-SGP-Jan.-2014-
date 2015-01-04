@@ -1,0 +1,9 @@
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\bin\Release\AnimationEditor.exe.config
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\bin\Release\AnimationEditor.exe
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\bin\Release\AnimationEditor.pdb
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\obj\Release\AnimationEditor.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\obj\Release\AnimationEditor.Form1.resources
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\obj\Release\AnimationEditor.Properties.Resources.resources
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\obj\Release\AnimationEditor.csproj.GenerateResource.Cache
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\obj\Release\AnimationEditor.exe
+C:\Users\fullsail\Desktop\plants-vs-robots\Tools\AnimationEditor\obj\Release\AnimationEditor.pdb

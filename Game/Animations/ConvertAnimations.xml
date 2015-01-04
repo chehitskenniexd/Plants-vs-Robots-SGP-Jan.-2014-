@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="P Infantry Convert" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="30" anchorPtY="62" frameDuration="0.5" rleft="176" rtop="204" rright="240" rbottom="268" event="None" />
+		<AnimFrames anchorPtX="35" anchorPtY="62" frameDuration="0.5" rleft="400" rtop="202" rright="464" rbottom="266" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="62" frameDuration="0.5" rleft="176" rtop="204" rright="240" rbottom="268" event="UNIT_CONVERT" />
+	</Animation>
+	<Animation name="P Scout Convert" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="25" anchorPtY="58" frameDuration="0.5" rleft="275" rtop="307" rright="339" rbottom="371" event="None" />
+		<AnimFrames anchorPtX="36" anchorPtY="59" frameDuration="0.5" rleft="416" rtop="399" rright="480" rbottom="463" event="None" />
+		<AnimFrames anchorPtX="25" anchorPtY="58" frameDuration="0.5" rleft="275" rtop="307" rright="339" rbottom="371" event="UNIT_CONVERT" />
+	</Animation>
+	<Animation name="P Tank Convert" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="33" anchorPtY="62" frameDuration="0.5" rleft="190" rtop="581" rright="254" rbottom="645" event="None" />
+		<AnimFrames anchorPtX="32" anchorPtY="62" frameDuration="0.5" rleft="21" rtop="650" rright="85" rbottom="714" event="None" />
+		<AnimFrames anchorPtX="33" anchorPtY="62" frameDuration="0.5" rleft="190" rtop="581" rright="254" rbottom="645" event="UNIT_CONVERT" />
+	</Animation>
+	<Animation name="R Infantry Convert" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="33" anchorPtY="60" frameDuration="0.5" rleft="901" rtop="181" rright="965" rbottom="245" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="60" frameDuration="0.5" rleft="620" rtop="132" rright="684" rbottom="196" event="None" />
+		<AnimFrames anchorPtX="33" anchorPtY="60" frameDuration="0.5" rleft="901" rtop="181" rright="965" rbottom="245" event="UNIT_CONVERT" />
+	</Animation>
+	<Animation name="R Scout Convert" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="30" anchorPtY="62" frameDuration="0.5" rleft="893" rtop="262" rright="957" rbottom="326" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="62" frameDuration="0.5" rleft="792" rtop="262" rright="856" rbottom="326" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="62" frameDuration="0.5" rleft="893" rtop="262" rright="957" rbottom="326" event="UNIT_CONVERT" />
+	</Animation>
+	<Animation name="R Tank Convert" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="30" anchorPtY="60" frameDuration="0.5" rleft="636" rtop="464" rright="700" rbottom="528" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="60" frameDuration="0.5" rleft="722" rtop="533" rright="786" rbottom="597" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="60" frameDuration="0.5" rleft="636" rtop="464" rright="700" rbottom="528" event="UNIT_CONVERT" />
+	</Animation>
+</Sheet>

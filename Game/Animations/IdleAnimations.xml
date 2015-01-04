@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet>
+	<Animation name="P Infantry Idle" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="29" anchorPtY="61" frameDuration="0.2" rleft="178" rtop="204" rright="242" rbottom="268" event="None" />
+		<AnimFrames anchorPtX="23" anchorPtY="61" frameDuration="0.2" rleft="252" rtop="202" rright="316" rbottom="266" event="None" />
+	</Animation>
+	<Animation name="P Scout Idle" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="30" anchorPtY="59" frameDuration="0.2" rleft="276" rtop="308" rright="340" rbottom="372" event="None" />
+		<AnimFrames anchorPtX="25" anchorPtY="60" frameDuration="0.2" rleft="403" rtop="295" rright="467" rbottom="359" event="None" />
+	</Animation>
+	<Animation name="P Tank Idle" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="27" anchorPtY="63" frameDuration="0.2" rleft="190" rtop="581" rright="254" rbottom="645" event="None" />
+		<AnimFrames anchorPtX="27" anchorPtY="63" frameDuration="0.2" rleft="97" rtop="581" rright="161" rbottom="645" event="None" />
+	</Animation>
+	<Animation name="R Infantry Idle" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="35" anchorPtY="61" frameDuration="0.2" rleft="890" rtop="127" rright="954" rbottom="191" event="None" />
+		<AnimFrames anchorPtX="35" anchorPtY="61" frameDuration="0.2" rleft="790" rtop="186" rright="854" rbottom="250" event="None" />
+	</Animation>
+	<Animation name="R Scout Idle" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="29" anchorPtY="63" frameDuration="0.2" rleft="892" rtop="260" rright="956" rbottom="324" event="None" />
+		<AnimFrames anchorPtX="29" anchorPtY="63" frameDuration="0.2" rleft="958" rtop="258" rright="1022" rbottom="322" event="None" />
+	</Animation>
+	<Animation name="R Tank Idle" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="30" anchorPtY="61" frameDuration="0.2" rleft="718" rtop="462" rright="782" rbottom="526" event="None" />
+		<AnimFrames anchorPtX="30" anchorPtY="61" frameDuration="0.2" rleft="636" rtop="464" rright="700" rbottom="528" event="None" />
+	</Animation>
+	<Animation name="P Base Idle" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="31" anchorPtY="62" frameDuration="0.25" rleft="164" rtop="74" rright="228" rbottom="138" event="None" />
+		<AnimFrames anchorPtX="36" anchorPtY="62" frameDuration="0.25" rleft="238" rtop="74" rright="302" rbottom="138" event="None" />
+		<AnimFrames anchorPtX="31" anchorPtY="62" frameDuration="0.25" rleft="164" rtop="74" rright="228" rbottom="138" event="None" />
+		<AnimFrames anchorPtX="27" anchorPtY="65" frameDuration="0.25" rleft="383" rtop="72" rright="447" rbottom="138" event="None" />
+	</Animation>
+	<Animation name="R Base Idle" isLooping="1" animImageID="Sprite Sheet.png">
+		<AnimFrames anchorPtX="13" anchorPtY="62" frameDuration="0.1" rleft="868" rtop="589" rright="932" rbottom="653" event="None" />
+		<AnimFrames anchorPtX="13" anchorPtY="62" frameDuration="0.1" rleft="952" rtop="588" rright="1016" rbottom="652" event="None" />
+	</Animation>
+</Sheet>
